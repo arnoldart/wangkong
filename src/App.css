@@ -1,0 +1,16 @@
+/* .App {
+  width: 1345px;
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  background: white;
+  display: flex;
+} */
+
+.container {
+  display: flex;
+  width: 1345px;
+  background: white;
+}

@@ -1,0 +1,19 @@
+.tanggal {
+    display: flex;
+    align-items: center;
+    margin-left: 1rem;
+    margin-top: 1rem;
+}
+
+.chev__inner {
+    margin-left: 8.5rem;
+}
+
+.icon2 {
+    width: 2rem;
+    height: 2rem;
+}
+
+.kalender__inner {
+    margin: 2rem 1rem;
+}

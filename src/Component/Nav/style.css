@@ -1,0 +1,49 @@
+.logo {
+    width: 8rem;
+}
+
+.menu {
+    margin-left: 2rem;
+}
+
+.logo {
+    margin: 2rem 1rem;
+}
+
+.menu__button {
+    padding: .5rem;
+    display: flex;
+    outline: none;
+    border: none;
+    border-radius: .5rem;
+    background-color: #FD8547;
+    color: white;
+    cursor: pointer;
+}
+
+.menu__inner {
+    display: flex;
+    margin: 2rem 0;
+}
+
+.menu__text {
+    margin: .2rem 1rem;
+}
+
+.icon svg{
+    width: 1.5rem;
+    height: 1.5rem;
+}
+
+.active {
+    color:  #FD8547;
+}
+
+.plan__text h3{
+    width: 9rem;
+    margin-left: 1.5rem;
+}
+
+.plan__image {
+    margin-top: 1rem;
+}

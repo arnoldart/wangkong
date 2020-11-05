@@ -1,0 +1,156 @@
+.main {
+    border-left: 1px solid rgb(231, 231, 231);
+    border-right: 1px solid rgb(231, 231, 231);
+    padding:0 2rem;
+    margin: 1rem 1rem;
+}
+
+.summary__img {
+    margin-top: 2rem;
+}
+
+.search__icon {
+    width: 1.5rem;
+    height: 1.5rem;
+    position: relative;
+    top: .5rem;
+}
+
+.search1 {
+    display: flex;
+}
+
+.search__bar {
+    display: flex;
+    padding: 1rem 2rem;
+    border-radius: 2rem;
+}
+
+.search__input {
+    outline: none;
+    margin-left: .5rem;
+    border: none;
+}
+
+.option {
+    display: flex;
+    align-items: center;
+    border: 0.625rem solid #efefef;
+    border-radius: 2rem;
+    padding: 0.5rem 1rem;
+    position: relative;
+    left: 9rem;
+}
+
+.drop {
+    background: none;
+    -webkit-appearance: none;
+    font-weight: 600;
+    border: none;
+    padding: 0.5rem;
+    margin-right: -1.25rem;
+}
+
+.option__drop {
+    width: 1.25rem;
+    height: 1.25rem;
+    color: #ff8345;
+}
+
+.summary {
+    margin-top: 1rem;
+}
+
+.meeting {
+    margin-top: 1rem;
+    display: flex;
+}
+
+.meeting__item {
+    display: flex;
+    margin-top: 1rem;
+}
+
+.content2 {
+    margin-left: 3rem;
+}
+
+.meeting__text {
+    line-height: 1.7rem;
+    margin-left: 1rem;
+}
+
+.meeting__text p {
+    color: gray;
+}
+
+.icon img {
+    width: 60px;
+}
+
+.icon__item {
+    position: relative;
+    top: -.7rem;
+}
+
+.icon__item img {
+    width: 2.5rem;
+}
+
+.coba {
+    display: flex;
+    margin-top: 1rem;
+}
+
+.clock {
+    position: relative;
+    top: -.2rem;
+}
+
+.meeting__text2 p{
+    margin-left: .5rem;
+}
+
+.orang__meeting {
+    position: relative;
+    left: 3rem;
+    z-index: 1;
+}
+
+.orang__meeting2 {
+    position: relative;
+    left: 1.5rem;
+}
+
+.call {
+    display: flex;
+    margin-left: 1rem;
+}
+
+.icon__call,
+.icon__call2 {
+    width: 1.5rem;
+    height: 1.5rem;
+}
+
+.call__button {
+    display: flex;
+    padding: 0 1.7rem;
+    background-color: #ff8345;
+    outline: none;
+    border-radius: .5rem;
+    border: none;
+    color: white;
+}
+
+.call__button2  {
+    display: flex;
+    padding: 0 1rem;
+    border: none;
+}
+
+.call__button p,
+.call__button2 p {
+    margin-top: .3rem;
+    margin-left: .5rem;
+}
